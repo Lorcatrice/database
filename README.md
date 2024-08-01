@@ -15,3 +15,4 @@ All the data is manually inputted by Lorcana fans with the help of Cinderella's 
 | 2024.07.24 | Spoilers 1.2 | Complete Re-do, 124 cards total, all images from lorcanaplayer.com    |
 | 2024.07.24 | Promos 1.1   | 6 D23 2024 cards added, 52 total                                      |
 | 2024.07.28 | Spoilers 1.3 | 47 new cards, 171 total                                               |
+| 2024.08.01 | Spoilers 1.4 | 46 new cards, 217 total. All cards besides un-released Enchanteds.    |
