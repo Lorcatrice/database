@@ -2,9 +2,10 @@
 <cockatrice_carddatabase version="4">
     <!--
 
-    Set 5 Spoilers 123 cards lorcanaplayer.com
+Set 5 Spoilers:		171 cards from lorcanaplayer.com
+(site says 172 but includes promo enchanted Madrigal)
 
-    -->
+-->
     <sets>
         <set>
             <name>SPOIL</name>
@@ -14,34 +15,6 @@
         </set>
     </sets>
     <cards>
-        <card>
-            <name>Vanellope Von Schweetz - Sugar Rush Princess</name>
-            <text>Shift 2 (You may pay 2⬡ to play this on top of one of your characters named Vanellope Von Schweetz.)
-                I Hereby Decree: Whenever you play another Princess character, all opposing characters get -1※ until the
-                start of your next turn.
-            </text>
-            <prop>
-                <maintype>Character</maintype>
-                <type>Floodborn • Hero • Princess • Racer</type>
-                <colors>Amber</colors>
-                <Inkable>Yes</Inkable>
-                <manacost>4</manacost>
-                <Abilities>Shift</Abilities>
-                <Strength>2</Strength>
-                <pt>2/4</pt>
-                <Willpower>4</Willpower>
-                <Lore>2</Lore>
-                <Artist>Vanessa Morales</Artist>
-                <Franchise>Wreck-It Ralph</Franchise>
-            </prop>
-            <set
-                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Vanellope-Von-Schweetz-Sugar-Rush-Princess-D23-Collection-LQ-Lorcana-Player.jpg"
-                    rarity="?"
-                    uuid="SKY-???"
-            >SPOIL
-            </set>
-            <tablerow>2</tablerow>
-        </card>
         <card>
             <name>Koda - Talkative Cub</name>
             <text>Tell Everybody: During opponents’ turns, you can’t lose lore.</text>
@@ -68,7 +41,33 @@
             <tablerow>2</tablerow>
         </card>
         <!-- SKY-002 -->
-        <!-- SKY-003 -->
+        <card>
+            <name>Prince Naveen - Ukulele Player</name>
+            <text>Singer 6 (This character counts as cost 6 to sing songs.)
+                It’s Beautiful No?: When you play this character, you may play a song with cost 6 or less for free.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Hero • Prince</type>
+                <colors>Amber</colors>
+                <Inkable>No</Inkable>
+                <manacost>4</manacost>
+                <Abilities>Singer</Abilities>
+                <Strength>3</Strength>
+                <pt>3/3</pt>
+                <Willpower>3</Willpower>
+                <Lore>2</Lore>
+                <Artist>Rosa la Barbera / Livio Cacciatore</Artist>
+                <Franchise>The Princess and the Frog</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Prince-Naveen-Ukulele-Player-LQ-Lorcana-Player.jpg"
+                    rarity="Legendary"
+                    uuid="SKY-003"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Rutt - Nothern Moose</name>
             <text>Support (Whenever this character quests, you may add their ※ to another chosen character’s ※ this
@@ -229,7 +228,34 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-011 -->
+        <card>
+            <name>Gazelle - Pop Star</name>
+            <text>Singer 5 (This character counts as cost 5 to sing songs.)</text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Ally</type>
+                <colors>Amber</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>3</manacost>
+                <Abilities>Singer</Abilities>
+                <Strength>2</Strength>
+                <pt>2/3</pt>
+                <Willpower>3</Willpower>
+                <Lore>2</Lore>
+                <Artist>Lauren Barger</Artist>
+                <Franchise>Zootopia</Franchise>
+                <Flavor>"Good evening, Lorcana! We are here tonight to celebrate the possibilities that open up when we
+                    unite."
+                </Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Gazelle-Pop-Star-LQ-French-Lorcana-Player.jpg"
+                    rarity="Common"
+                    uuid="SKY-011"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Fix-It Felix, Jr. - Niceland Steward</name>
             <text>Shift 3 (You may pay 3⬡ to play this on top of one of your characters named Fix-It Felix, Jr..)
@@ -285,7 +311,31 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-014 -->
+        <card>
+            <name>Mirabel Madrigal - Family Gatherer</name>
+            <text>Not Without My Family: You can’t play this character unless you have 5 or more characters in play.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Hero • Madrigal</type>
+                <colors>Amber</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>5</manacost>
+                <Strength>5</Strength>
+                <pt>5/5</pt>
+                <Willpower>5</Willpower>
+                <Lore>5</Lore>
+                <Artist>Emily Abeydeera</Artist>
+                <Franchise>Encanto</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Mirabel-Madrigal-Family-Gatherer-LQ-Lorcana-Player.jpg"
+                    rarity="Legendary"
+                    uuid="SKY-014"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <!-- SKY-015 -->
         <card>
             <name>Daisy Duck - Donald’s Date</name>
@@ -339,7 +389,34 @@
             <tablerow>2</tablerow>
         </card>
         <!-- SKY-018 -->
-        <!-- SKY-019 -->
+        <card>
+            <name>Vanellope Von Schweetz - Sugar Rush Princess</name>
+            <text>Shift 2 (You may pay 2⬡ to play this on top of one of your characters named Vanellope Von Schweetz.)
+                I Hereby Decree: Whenever you play another Princess character, all opposing characters get -1※ until the
+                start of your next turn.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Floodborn • Hero • Princess • Racer</type>
+                <colors>Amber</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>4</manacost>
+                <Abilities>Shift</Abilities>
+                <Strength>2</Strength>
+                <pt>2/4</pt>
+                <Willpower>4</Willpower>
+                <Lore>2</Lore>
+                <Artist>Vanessa Morales</Artist>
+                <Franchise>Wreck-It Ralph</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Vanellope-von-Schweetz-Sugar-Rush-Princess-Lorcana-Player.jpg"
+                    rarity="Rare"
+                    uuid="SKY-019"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Alan-a-Dale - Rockin’ Rooster</name>
             <text>Fan Favorite: Whenever you play a song, gain 1 lore.</text>
@@ -394,7 +471,32 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-022 -->
+        <card>
+            <name>Maid Marian - Mistress of the Range</name>
+            <text>If The Lady Wants It: When you play this character, opposing character of your choice gets -5※ until
+                the start of your next turn.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Dreamborn • Princess</type>
+                <colors>Amber</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>6</manacost>
+                <Strength>4</Strength>
+                <pt>4/5</pt>
+                <Willpower>5</Willpower>
+                <Lore>2</Lore>
+                <Artist>Jenna Gray</Artist>
+                <Franchise>Robin Hood</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Maid-Marian-Mistress-of-the-Range-LQ-German-Lorcana-Player.jpg"
+                    rarity="Uncommon"
+                    uuid="SKY-022"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Sven - Reindeer Steed</name>
             <text>Reindeer Games: When you play this character, you may ready chosen character. They can’t quest or
@@ -472,9 +574,72 @@
             </set>
             <tablerow>3</tablerow>
         </card>
-        <!-- SKY-026 -->
-        <!-- SKY-027 -->
-        <!-- SKY-028 -->
+        <card>
+            <name>Healing Touch</name>
+            <text>Remove up to 4 damage from chosen character. Draw a card.</text>
+            <prop>
+                <maintype>Action</maintype>
+                <type>Action</type>
+                <colors>Amber</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>3</manacost>
+                <Artist>Mariana Moreno</Artist>
+                <Franchise>Frozen</Franchise>
+                <Flavor>"The heart is not so easily changed, but the head can be persuaded."
+                    - Grand Pabbie
+                </Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Healing-Touch-LQ-Lorcana-Player.jpg"
+                    rarity="Common"
+                    uuid="SKY-026"
+            >SPOIL
+            </set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Revive</name>
+            <text>Play a character card with cost 5 or less from your discard for free.</text>
+            <prop>
+                <maintype>Action</maintype>
+                <type>Action</type>
+                <colors>Amber</colors>
+                <Inkable>No</Inkable>
+                <manacost>5</manacost>
+                <Artist>Jared Matthews</Artist>
+                <Franchise>Tangled</Franchise>
+                <Flavor>Not all that is lost is gone forever.</Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Revive-LQ-Lorcana-Player.jpg"
+                    rarity="Rare"
+                    uuid="SKY-027"
+            >SPOIL
+            </set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Blast From Your Past</name>
+            <text>(A character with cost 6 or more can ↷ to sing this song for free.)
+                Name a card. Return all character cards with that name from your discard to your hand.
+            </text>
+            <prop>
+                <maintype>Action</maintype>
+                <type>Action</type>
+                <colors>Amber</colors>
+                <Inkable>No</Inkable>
+                <manacost>6</manacost>
+                <Artist>Nicola Saviori</Artist>
+                <Franchise>Aladdin</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Blast-From-Your-Past-LQ-Lorcana-Player.jpg"
+                    rarity="Super Rare"
+                    uuid="SKY-028"
+            >SPOIL
+            </set>
+            <tablerow>3</tablerow>
+        </card>
         <card>
             <name>Invited to the Ball</name>
             <text>Reveal the top 2 cards of your deck. Put revealed character cards into your hand. Put the rest on the
@@ -592,7 +757,33 @@
             <tablerow>1</tablerow>
             <cipt>1</cipt>
         </card>
-        <!-- SKY-034 -->
+        <card>
+            <name>Pride Lands - Jungle Oasis</name>
+            <text>Our Humble Home: While you have 3 or more characters here, you may banish this location to play a
+                character from your discard for free.
+            </text>
+            <prop>
+                <maintype>Location</maintype>
+                <type>Location</type>
+                <colors>Amber</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>3</manacost>
+                <Move_Cost>2</Move_Cost>
+                <pt>2/8</pt>
+                <Willpower>8</Willpower>
+                <Lore>1</Lore>
+                <Artist>Matthew Oates</Artist>
+                <Franchise>The Lion King</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Pride-Lands-Jungle-Oasis-LQ-Lorcana-Player.jpg"
+                    rarity="Rare"
+                    uuid="SKY-034"
+            >SPOIL
+            </set>
+            <tablerow>1</tablerow>
+            <cipt>1</cipt>
+        </card>
         <card>
             <name>Maleficent - Fearsome Queen</name>
             <text>Shift 6 (You may pay 6⬡ to play this on top of one of your characters named Maleficent.)
@@ -649,7 +840,32 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-039 -->
+        <card>
+            <name>Archimedes - Exasperated Owl</name>
+            <text>Evasive (Only characters with Evasive can challenge this character.)</text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Mentor • Sorcerer</type>
+                <colors>Amethyst</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>3</manacost>
+                <Abilities>Evasive</Abilities>
+                <Strength>2</Strength>
+                <pt>2/2</pt>
+                <Willpower>2</Willpower>
+                <Lore>2</Lore>
+                <Artist>Kendall Hale</Artist>
+                <Franchise>The Sword in the Stone</Franchise>
+                <Flavor>"Hmph. What does on owl have to do to get a little peace and quiet around here?"</Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Archimedes-Exasperated-Owl-Lorcana-Player.jpg"
+                    rarity="Common"
+                    uuid="SKY-039"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Bruni - Fire Salamander</name>
             <text>Evasive (Only characters with Evasive can challenge this character.)
@@ -679,7 +895,32 @@
         </card>
         <!-- SKY-041 -->
         <!-- SKY-042 -->
-        <!-- SKY-043 -->
+        <card>
+            <name>White Rabbit - Royal Herald</name>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Ally</type>
+                <colors>Amethyst</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>3</manacost>
+                <Strength>3</Strength>
+                <pt>3/4</pt>
+                <Willpower>4</Willpower>
+                <Lore>1</Lore>
+                <Artist>James C Mulligan</Artist>
+                <Franchise>Alice in Wonderland</Franchise>
+                <Flavor>"Oh me, oh my! Did a piece just fall off the Illuminary?! I’ve got to tell someone before it’s
+                    toolate, late, late!"
+                </Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/White-Rabbit-Royal-Herald-Lorcana-Player.jpg"
+                    rarity="Common"
+                    uuid="SKY-043"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Madam Mim - Elephant</name>
             <text>A Little Game: When you play this character, banish her or return another chosen character of yours to
@@ -689,7 +930,7 @@
             </text>
             <prop>
                 <maintype>Character</maintype>
-                <type></type>
+                <type>Storyborn • Villain • Sorcerer</type>
                 <colors>Amethyst</colors>
                 <Inkable>Yes</Inkable>
                 <manacost>4</manacost>
@@ -722,7 +963,7 @@
                 <Lore>3</Lore>
                 <Artist>Samanta Erdini</Artist>
                 <Franchise>Encanto</Franchise>
-                <Flavor>"</Flavor>This is just a warm-up, folks! Wait ’til you see the big finale!"
+                <Flavor>"This is just a warm-up, folks! Wait ’til you see the big finale!"</Flavor>
             </prop>
             <set
                     picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Luisa-Madrigal-Entertaining-Muscle-Lorcana-Player.jpg"
@@ -732,17 +973,70 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-046 -->
-        <!-- SKY-047 -->
+        <card>
+            <name>Anna - Mystical Majesty</name>
+            <text>Shift 4 (You may pay 4⬡ to play this on top of one of your characters named Anna.)
+                Exceptional Power: When you play this character, exert all opposing characters.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Floodborn • Hero • Queen • Sorcerer</type>
+                <colors>Amethyst</colors>
+                <Inkable>No</Inkable>
+                <manacost>7</manacost>
+                <Abilities>Shift</Abilities>
+                <Strength>4</Strength>
+                <pt>4/5</pt>
+                <Willpower>5</Willpower>
+                <Lore>2</Lore>
+                <Artist>Jackie Droujko</Artist>
+                <Franchise>Frozen</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Anna-Mystical-Majesty-LQ-French-Lorcana-Player.jpg"
+                    rarity="Rare"
+                    uuid="SKY-046"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Archimedes - Electrified Owl</name>
+            <text>Shift 3 (You may pay 3⬡ to play this on top of one of your characters named Archimedes.)
+                Evasive (Only characters with Evasive can challenge this character.)
+                Challenger +3 (While challenging, this character gets +3※.)
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Floodborn • Ally</type>
+                <colors>Amethyst</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>5</manacost>
+                <Abilities>Shift • Evasive • Challenger</Abilities>
+                <Strength>1</Strength>
+                <pt>1/4</pt>
+                <Willpower>4</Willpower>
+                <Lore>2</Lore>
+                <Artist>Michaela Martin</Artist>
+                <Franchise>The Sword in the Stone</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Archimedes-Electrified-Owl-LQ-Lorcana-Player.jpg"
+                    rarity="Uncommon"
+                    uuid="SKY-047"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Elsa - The Fifth Spirit</name>
             <text>Rush (This character can challenge the turn they’re played.)
                 Evasive (Only characters with Evasive can challenge this character.)
-                CRYSTALLIZE When you play this character, exert chosen opposing character.
+                Crystallize: When you play this character, exert chosen opposing character.
             </text>
             <prop>
                 <maintype>Character</maintype>
-                <type></type>
+                <type>Dreamborn • Hero • Queen • Sorcerer</type>
                 <colors>Amethyst</colors>
                 <Inkable>Yes</Inkable>
                 <manacost>5</manacost>
@@ -926,8 +1220,54 @@
             <tablerow>2</tablerow>
         </card>
         <!-- SKY-057 -->
-        <!-- SKY-058 -->
-        <!-- SKY-059 -->
+        <card>
+            <name>Camilo Madrigal - Family Copycat</name>
+            <text>IMITATE Whenever this character quests, you may gain lore equal to the ◆ of chosen other character of
+                yours. Return that character to your hand.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Ally • Madrigal</type>
+                <colors>Amethyst</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>6</manacost>
+                <Strength>3</Strength>
+                <pt>3/7</pt>
+                <Willpower>7</Willpower>
+                <Lore>1</Lore>
+                <Artist>Saulo Nate</Artist>
+                <Franchise>Encanto</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Camilo-Madrigal-Family-Copycat-Lorcana-Player.jpg"
+                    rarity="Legendary"
+                    uuid="SKY-058"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Hypnotic Strength</name>
+            <text>Draw a card. Chosen character gains Challenger +2 this turn. (They get +2※ while challenging.)</text>
+            <prop>
+                <maintype>Action</maintype>
+                <type>Action</type>
+                <colors>Amethyst</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>2</manacost>
+                <Abilities>Challenger</Abilities>
+                <Artist>Giulia Riva</Artist>
+                <Franchise>Aladdin</Franchise>
+                <Flavor>Suddenly, Basil felt a strong desire to find the broken crown.</Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Hypnotic-Strength-LQ-Lorcana-Player.jpg"
+                    rarity="Common"
+                    uuid="SKY-059"
+            >SPOIL
+            </set>
+            <tablerow>3</tablerow>
+        </card>
         <card>
             <name>Finders Keepers</name>
             <text>Draw 3 cards.</text>
@@ -976,8 +1316,51 @@
         </card>
         <!-- SKY-062 -->
         <!-- SKY-063 -->
-        <!-- SKY-064 -->
-        <!-- SKY-065 -->
+        <card>
+            <name>Retrosphere</name>
+            <text>Extract of Amethyst: 2⬡, Banish this item - Return chosen character, item, or location with cost 3 or
+                less to their player’s hand.
+            </text>
+            <prop>
+                <maintype>Item</maintype>
+                <type>Item</type>
+                <colors>Amethyst</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>1</manacost>
+                <Artist>Stefano Zanchi</Artist>
+                <Franchise>Lorcana</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Retrosphere-LQ-Lorcana-Player.jpg"
+                    rarity="Common"
+                    uuid="SKY-064"
+            >SPOIL
+            </set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
+            <name>Half Hexwell Crown</name>
+            <text>An Unexpected Find: , 2⬡ - Draw a card.
+                A Perilous Power: , 2⬡, Discard a card - Exert chosen character.
+            </text>
+            <prop>
+                <maintype>Item</maintype>
+                <type>Item</type>
+                <colors>Amethyst</colors>
+                <Inkable>No</Inkable>
+                <manacost>6</manacost>
+                <Artist>John Loren</Artist>
+                <Franchise>Lorcana</Franchise>
+                <Flavor>The broken crown holds dark and mysterious powers.</Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Half-Hexwell-Crown-Lorcana-Player.jpg"
+                    rarity="Rare"
+                    uuid="SKY-065"
+            >SPOIL
+            </set>
+            <tablerow>3</tablerow>
+        </card>
         <card>
             <name>Amethyst Chromicon</name>
             <text>Amethyst Light: ↷ - Each player may draw a card.</text>
@@ -1012,11 +1395,15 @@
                 <colors>Amethyst</colors>
                 <Inkable>No</Inkable>
                 <manacost>3</manacost>
+                <Move_Cost>1</Move_Cost>
+                <pt>1/4</pt>
+                <Willpower>4</Willpower>
+                <Lore>1</Lore>
                 <Artist>Wietse Treurniet</Artist>
                 <Franchise>Frozen</Franchise>
             </prop>
             <set
-                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Amethyst-Chromicon-Lorcana-Player.jpg"
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Elsas-Ice-Palace-Place-of-Solitude-LQ-Lorcana-Player.jpg"
                     rarity="Rare"
                     uuid="SKY-067"
             >SPOIL
@@ -1024,7 +1411,31 @@
             <tablerow>1</tablerow>
             <cipt>1</cipt>
         </card>
-        <!-- SKY-068 -->
+        <card>
+            <name>The Library - A Gift for Belle</name>
+            <text>Lost in a Book: Whenever a character is banished while here, you may draw a card.</text>
+            <prop>
+                <maintype>Location</maintype>
+                <type>Location</type>
+                <colors>Amethyst</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>3</manacost>
+                <Move_Cost>1</Move_Cost>
+                <pt>1/8</pt>
+                <Willpower>8</Willpower>
+                <Lore>1</Lore>
+                <Artist>Roberto Gatto</Artist>
+                <Franchise>Beauty and the Beast</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/The-Library-A-Gift-for-Belle-LQ-Lorcana-Player.jpg"
+                    rarity="Uncommon"
+                    uuid="SKY-068"
+            >SPOIL
+            </set>
+            <tablerow>1</tablerow>
+            <cipt>1</cipt>
+        </card>
         <card>
             <name>Robin Hood - Timely Contestant</name>
             <text>Tag Me In!: For each 1 damage on opposing characters, you pay 1⬡ less to play this character.
@@ -1052,11 +1463,110 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-070 -->
-        <!-- SKY-071 -->
+        <card>
+            <name>Shenzi - Scar’s Accomplice</name>
+            <text>Evasive (Only characters with Evasive can challenge this character.)
+                Easy Prey: While challenging a damaged character, this character gets +2※.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Ally • Hyena</type>
+                <colors>Emerald</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>3</manacost>
+                <Abilities>Evasive</Abilities>
+                <Strength>2</Strength>
+                <pt>2/3</pt>
+                <Willpower>3</Willpower>
+                <Lore>1</Lore>
+                <Artist>Julien Vandois</Artist>
+                <Franchise>The Lion King</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Shenzi-Scars-Accomplice-LQ-Italian-Lorcana-Player.jpg"
+                    rarity="Common"
+                    uuid="SKY-070"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Little John - Camp Cook</name>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Ally</type>
+                <colors>Emerald</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>1</manacost>
+                <Strength>0</Strength>
+                <pt>0/4</pt>
+                <Willpower>4</Willpower>
+                <Lore>1</Lore>
+                <Artist>John Loren</Artist>
+                <Franchise>Robin Hood</Franchise>
+                <Flavor>"You’re in for a real treat, Rob. Tonight’s house special is my famous outlaw grub. Made from
+                    the finest whatever we could find!"
+                </Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Little-John-Camp-Cook-LQ-Lorcana-Player.jpg"
+                    rarity="Uncommon"
+                    uuid="SKY-071"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <!-- SKY-072 -->
-        <!-- SKY-073 -->
-        <!-- SKY-074 -->
+        <card>
+            <name>Ulf - Mime</name>
+            <text>Silent Performance: This character can’t ↷ to sing songs.</text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Ally</type>
+                <colors>Emerald</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>4</manacost>
+                <Strength>4</Strength>
+                <pt>4/3</pt>
+                <Willpower>3</Willpower>
+                <Lore>2</Lore>
+                <Artist>Matt Chapman</Artist>
+                <Franchise>Tangled</Franchise>
+                <Flavor>His performances are unspeakably good.</Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Ulf-Mime-LQ-Lorcana-Player.jpg"
+                    rarity="Common"
+                    uuid="SKY-073"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ed - Laughing Hyena</name>
+            <text>Cause A Panic: When you play this character, you may deal 2 damage to chosen damaged character.</text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Ally • Hyena</type>
+                <colors>Emerald</colors>
+                <Inkable>No</Inkable>
+                <manacost>3</manacost>
+                <Strength>2</Strength>
+                <pt>2/3</pt>
+                <Willpower>3</Willpower>
+                <Lore>1</Lore>
+                <Artist>Otto Paredes</Artist>
+                <Franchise>The Lion King</Franchise>
+                <Flavor>"A-heh, heh, heh, heh, heh, hee, hee, heeeee."</Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Ed-Laughing-Hyena-Lorcana-Player.jpg"
+                    rarity="Common"
+                    uuid="SKY-074"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Flora - Good Fairy</name>
             <text>Fiddle Faddle: While being challenged, this character gets +2※.</text>
@@ -1135,7 +1645,32 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-078 -->
+        <card>
+            <name>Fauna - Good Fairy</name>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Ally • Fairy</type>
+                <colors>Emerald</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>5</manacost>
+                <Strength>3</Strength>
+                <pt>3/7</pt>
+                <Willpower>7</Willpower>
+                <Lore>2</Lore>
+                <Artist>Eri Welli</Artist>
+                <Franchise>Sleeping Beauty</Franchise>
+                <Flavor>"The secret to a good cake is combining everything just right. Every ingredient is important,
+                    but the magic is in how they work together."
+                </Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Fauna-Good-Fairy-LQ-Lorcana-Player.jpg"
+                    rarity="Common"
+                    uuid="SKY-078"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Iago - Fake Flamingo</name>
             <text>Evasive (Only characters with Evasive can challenge this character.)
@@ -1162,7 +1697,30 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-080 -->
+        <card>
+            <name>Banzai - Voracious Predator</name>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Ally • Hyena</type>
+                <colors>Emerald</colors>
+                <Inkable>No</Inkable>
+                <manacost>2</manacost>
+                <Strength>3</Strength>
+                <pt>3/2</pt>
+                <Willpower>2</Willpower>
+                <Lore>2</Lore>
+                <Artist>Otto Paredes</Artist>
+                <Franchise>The Lion King</Franchise>
+                <Flavor>He’ll never turn down a quick bite before dinner.</Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Banzai-Voracious-Predator-LQ-German-Lorcana-Player.jpg"
+                    rarity="Rare"
+                    uuid="SKY-080"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Ed - Hysterical Partygoer</name>
             <text>Rowdy Guest: Damaged characters can’t challenge this character.</text>
@@ -1188,7 +1746,34 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-082 -->
+        <card>
+            <name>Scroop - Odious Mutineer</name>
+            <text>Evasive (Only characters with Evasive can challenge this character.)
+                Do Say Hello to Mr. Arrow: When you play this character, you may pay 3 to banish chosen damaged
+                character.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Alien • Pirate • Villain</type>
+                <colors>Emerald</colors>
+                <Inkable>No</Inkable>
+                <manacost>3</manacost>
+                <Abilities>Evasive</Abilities>
+                <Strength>2</Strength>
+                <pt>2/1</pt>
+                <Willpower>1</Willpower>
+                <Lore>2</Lore>
+                <Artist>Justin Runfola</Artist>
+                <Franchise>Treasure Planet</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Scroop-Odious-Mutineer-LQ-Lorcana-Player.jpg"
+                    rarity="Super Rare"
+                    uuid="SKY-082"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Prince Phillip - Swordsman of the Kingdom</name>
             <text>Dragon Slayer: When you play this character, banish chosen opposing Dragon character.
@@ -1215,8 +1800,61 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-084 -->
-        <!-- SKY-085 -->
+        <card>
+            <name>Clarabelle - Light Hooved</name>
+            <text>Shift 5 (You may pay 5⬡ to play this on top of one of your characters named Clarabelle.)
+                Keep Pace: At the end of your turn, choose an opponent. If they have more cards in hand than you, you
+                may draw until you have the same amount as them.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Floodborn • Ally</type>
+                <colors>Emerald</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>7</manacost>
+                <Strength>5</Strength>
+                <pt>5/6</pt>
+                <Willpower>6</Willpower>
+                <Lore>2</Lore>
+                <Artist>Jennifer Park / Livio Cacciatore</Artist>
+                <Franchise>Mickey Mouse &amp; Friends</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Clarabelle-Light-Hooved-LQ-French-Lorcana-Player.jpg"
+                    rarity="Legendary"
+                    uuid="SKY-084"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Anna - Diplomatic Queen</name>
+            <text>Royal Resolution: When you play this character, you may pay 2⬡ to choose one:
+                • Each opponent chooses and discards a card.
+                • Chosen character gets +2※ this turn.
+                • Banish chosen damaged character.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Hero • Queen</type>
+                <colors>Emerald</colors>
+                <Inkable>No</Inkable>
+                <manacost>2</manacost>
+                <Strength>3</Strength>
+                <pt>2/3</pt>
+                <Willpower>3</Willpower>
+                <Lore>2</Lore>
+                <Artist>Dylan Bonner / Celeste Jamneck</Artist>
+                <Franchise>Frozen</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Anna-Diplomatic-Queen-Lorcana-Player.jpg"
+                    rarity="Legendary"
+                    uuid="SKY-085"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Clarabelle - Clumsy Guest</name>
             <text>Butterfingers: When you play this character, you may pay 2⬡ to banish chosen item.</text>
@@ -1241,7 +1879,30 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-087 -->
+        <card>
+            <name>Banzai - Taunting Hyena</name>
+            <text>Here Kitty, Kitty, Kitty: When you play this character, you may exert chosen damaged character.</text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Ally • Hyena</type>
+                <colors>Emerald</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>2</manacost>
+                <Strength>2</Strength>
+                <pt>2/2</pt>
+                <Willpower>2</Willpower>
+                <Lore>1</Lore>
+                <Artist>Alexandria Neonakis</Artist>
+                <Franchise>The Lion King</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Banzai-Taunting-Hyena-LQ-Lorcana-Player.jpg"
+                    rarity="Common"
+                    uuid="SKY-087"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Robin Hood - Sneaky Sleuth</name>
             <text>Shift 3 (You may pay 3⬡ to play this on top of one of your characters named Robin Hood.)
@@ -1297,7 +1958,33 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-091 -->
+        <card>
+            <name>Shenzi - Head Hyena</name>
+            <text>Stick Around For Dinner: This character gets +1※ for each other Hyena character you have in play.
+                What Have We Got Here?: Whenever one of your Hyena characters challenges a damaged character, gain 2
+                lore.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Ally • Hyena</type>
+                <colors>Emerald</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>5</manacost>
+                <Strength>3</Strength>
+                <pt>3/6</pt>
+                <Willpower>6</Willpower>
+                <Lore>1</Lore>
+                <Artist>Otto Paredes</Artist>
+                <Franchise>The Lion King</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Shenzi-Head-Hyena-Lorcana-Player.jpg"
+                    rarity="Rare"
+                    uuid="SKY-091"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <!-- SKY-092 -->
         <card>
             <name>Scar - Vengeful Lion</name>
@@ -1327,7 +2014,29 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-094 -->
+        <card>
+            <name>Hypnotic Deduction</name>
+            <text>Draw 3 cards, then put 2 cards from your hand on the top of your deck in any order.</text>
+            <prop>
+                <maintype>Action</maintype>
+                <type>Action</type>
+                <colors>Emerald</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>2</manacost>
+                <Artist>Elodie Mondolini</Artist>
+                <Franchise>The Great Mouse Detective</Franchise>
+                <Flavor>"A security device! Easily defeated, of course. Once I make room for the crown,
+                    I…can…bring…it…to…him."
+                </Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Hypnotic-Deduction-LQ-Lorcana-Player.jpg"
+                    rarity="Common"
+                    uuid="SKY-094"
+            >SPOIL
+            </set>
+            <tablerow>3</tablerow>
+        </card>
         <card>
             <name>Night Howler Rage</name>
             <text>Draw a card. Chosen character gains Reckless during their next turn. (They can’t quest and must
@@ -1397,8 +2106,52 @@
             </set>
             <tablerow>3</tablerow>
         </card>
-        <!-- SKY-098 -->
-        <!-- SKY-099 -->
+        <card>
+            <name>Prince John’s Mirror</name>
+            <text>You Look Regal: If you have a character named Prince John in play, you pay 1⬡ less to play this item.
+                A Feeling Of Power: At the end of each opponent’s turn, if they have more than 3 cards in their hand,
+                they discard until they have 3 cards in their hand.
+            </text>
+            <prop>
+                <maintype>Item</maintype>
+                <type>Item</type>
+                <colors>Emerald</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>3</manacost>
+                <Artist>Stefano Zanchi</Artist>
+                <Franchise>Robin Hood</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Prince-Johns-Mirror-LQ-Lorcana-Player.jpg"
+                    rarity="Rare"
+                    uuid="SKY-098"
+            >SPOIL
+            </set>
+            <tablerow>1</tablerow>
+        </card>
+        <card>
+            <name>Obscurosphere</name>
+            <text>Extract of Emerald: 2⬡, Banish this item - Your characters gain Ward until the start of your next
+                turn. (Opponents can’t choose them except to challenge.)
+            </text>
+            <prop>
+                <maintype>Item</maintype>
+                <type>Item</type>
+                <colors>Emerald</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>1</manacost>
+                <Abilities>Ward</Abilities>
+                <Artist>Stefano Zanchi</Artist>
+                <Franchise>Lorcana</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Obscurosphere-Lorcana-Player.jpg"
+                    rarity="Common"
+                    uuid="SKY-099"
+            >SPOIL
+            </set>
+            <tablerow>1</tablerow>
+        </card>
         <card>
             <name>Emerald Chromicon</name>
             <text>Emerald Light: During opponents’ turns, whenever one of your characters is banished, you may return
@@ -1529,7 +2282,32 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-105 -->
+        <card>
+            <name>Maximus - Team Champion</name>
+            <text>A Reward Fit for a King: At the end of your turn, if one of your characters has 5※ or more, gain 2
+                Lore. If they have 10※ or more, gain 5 Lore instead.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Ally</type>
+                <colors>Ruby</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>6</manacost>
+                <Strength>3</Strength>
+                <pt>3/5</pt>
+                <Willpower>5</Willpower>
+                <Lore>2</Lore>
+                <Artist>Federico M. Cugliari</Artist>
+                <Franchise>Tangled</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Maximus-Team-Champion-LQ-French-Lorcana-Player.jpg"
+                    rarity="Super Rare"
+                    uuid="SKY-105"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Turbo - Royal Hack</name>
             <text>Rush (This character can challenge the turn they’re played.)
@@ -1537,7 +2315,7 @@
             </text>
             <prop>
                 <maintype>Character</maintype>
-                <type></type>
+                <type>Storyborn • Villain • Racer</type>
                 <colors>Ruby</colors>
                 <Inkable>No</Inkable>
                 <manacost>2</manacost>
@@ -1823,7 +2601,34 @@
             <tablerow>2</tablerow>
         </card>
         <!-- SKY-120 -->
-        <!-- SKY-121 -->
+        <card>
+            <name>Arthur - Novice Sparrow</name>
+            <text>Reckless (This character can’t quest and must challenge each turn if able.)</text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Hero</type>
+                <colors>Ruby</colors>
+                <Inkable>No</Inkable>
+                <manacost>1</manacost>
+                <Abilities>Reckless</Abilities>
+                <Strength>2</Strength>
+                <pt>2/3</pt>
+                <Willpower>3</Willpower>
+                <Lore>0</Lore>
+                <Artist>Brian Weisz</Artist>
+                <Franchise>The Sword in the Stone</Franchise>
+                <Flavor>"Hold it, boy. Not so fast."
+                    - Merlin
+                </Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Arthur-Novice-Sparrow-Lorcana-Player.jpg"
+                    rarity="Uncommon"
+                    uuid="SKY-121"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <!-- SKY-122 -->
         <card>
             <name>Ratigan - Party Crasher</name>
@@ -2034,8 +2839,8 @@
                 <maintype>Action</maintype>
                 <type>Action</type>
                 <colors>Ruby</colors>
-                <Inkable>No</Inkable>
-                <manacost>4</manacost>
+                <Inkable>Yes</Inkable>
+                <manacost>3</manacost>
                 <Abilities>Reckless</Abilities>
                 <Artist>Denny Minonne</Artist>
                 <Franchise>Beauty and the Beast</Franchise>
@@ -2127,6 +2932,9 @@
                 <colors>Ruby</colors>
                 <Inkable>No</Inkable>
                 <manacost>1</manacost>
+                <Move_Cost>0</Move_Cost>
+                <pt>0/5</pt>
+                <Willpower>5</Willpower>
                 <Artist>Cristian Romero</Artist>
                 <Franchise>Wreck-It Ralph</Franchise>
             </prop>
@@ -2139,7 +2947,30 @@
             <tablerow>1</tablerow>
             <cipt>1</cipt>
         </card>
-        <!-- SKY-136 -->
+        <card>
+            <name>Ratigans Party - Seedy Back Room</name>
+            <text>Misfits’ Revelry: While you have a damaged character here, this location gets +2◆.</text>
+            <prop>
+                <maintype>Location</maintype>
+                <type>Location</type>
+                <colors>Ruby</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>1</manacost>
+                <Move_Cost>1</Move_Cost>
+                <pt>1/7</pt>
+                <Willpower>7</Willpower>
+                <Artist>Jeremy Adams</Artist>
+                <Franchise>The Great Mouse Detective</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Ratigans-Party-Seedy-Back-Room-Lorcana-Player.jpg"
+                    rarity="Uncommon"
+                    uuid="SKY-136"
+            >SPOIL
+            </set>
+            <tablerow>1</tablerow>
+            <cipt>1</cipt>
+        </card>
         <card>
             <name>King Candy - Sovereign of Sugar</name>
             <prop>
@@ -2193,10 +3024,113 @@
         <!-- SKY-139 -->
         <!-- SKY-140 -->
         <!-- SKY-141 -->
-        <!-- SKY-142 -->
-        <!-- SKY-143 -->
-        <!-- SKY-144 -->
-        <!-- SKY-145 -->
+        <card>
+            <name>Merlin - Back From Bermuda</name>
+            <text>Long Live The King!: Your Arthur characters get Resist +1. (Damage dealt to them is reduced by 1.)
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Mentor • Sorcerer</type>
+                <colors>Sapphire</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>4</manacost>
+                <Strength>1</Strength>
+                <pt>1/4</pt>
+                <Willpower>4</Willpower>
+                <Lore>2</Lore>
+                <Artist>Alice Pisoni</Artist>
+                <Franchise>The Sword in the Stone</Franchise>
+                <Flavor>"A little rest and relaxation will be good for your health, boy."</Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Merlin-Back-From-Bermuda-LQ-German-Lorcana-Player.jpg"
+                    rarity="Common"
+                    uuid="SKY-142"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Pacha - Emperors Guide</name>
+            <text>Helpful Supplies: At the start of your turn, if you have an item in play, gain 1 lore.
+                Perfect Directions: At the start of your turn, if you have a location in play, gain 1 lore.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Hero</type>
+                <colors>Sapphire</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>3</manacost>
+                <Strength>0</Strength>
+                <pt>0/4</pt>
+                <Willpower>4</Willpower>
+                <Lore>2</Lore>
+                <Artist>Alex Accorsi</Artist>
+                <Franchise>The Emperor's New Groove</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Pacha-Emperors-Guide-Lorcana-Player.jpg"
+                    rarity="Uncommon"
+                    uuid="SKY-143"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>The Queen - Fairest Of Them All</name>
+            <text>Shift 3 (You may pay 3⬡ to play this on top of one of your characters named The Queen.)
+                Ward (Opponents can’t choose this character except to challenge.)
+                Reflections Of Vanity: For each other The Queen character you have in play, this character gets +1◆.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Floodborn • Queen • Sorcerer • Villain</type>
+                <colors>Sapphire</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>5</manacost>
+                <Abilities>Shift • Ward</Abilities>
+                <Strength>2</Strength>
+                <pt>2/6</pt>
+                <Willpower>6</Willpower>
+                <Lore>1</Lore>
+                <Artist>Aisha Durmagambetova</Artist>
+                <Franchise>Sleeping Beauty</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/The-Queen-The-Most-Beautiful-of-them-All-LQ-Italian-Lorcana-Player.jpg"
+                    rarity="Super Rare"
+                    uuid="SKY-144"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Sheriff Of Nottingham - Old Moneybags</name>
+            <text>Every Little Bit Helps: For each item you have in play, you pay 1⬡ less to play this character.
+                Support (Whenever this character quests, you may add their ※ to another chosen character’s ※ this turn.)
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Villain</type>
+                <colors>Sapphire</colors>
+                <Inkable>No</Inkable>
+                <manacost>9</manacost>
+                <Abilities>Support</Abilities>
+                <Strength>5</Strength>
+                <pt>5/9</pt>
+                <Willpower>9</Willpower>
+                <Lore>4</Lore>
+                <Artist>Josep Solé</Artist>
+                <Franchise>Robin Hood</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Sheriff-Of-Nottingham-Old-Moneybags-LQ-German-Lorcana-Player.jpg"
+                    rarity="Rare"
+                    uuid="SKY-145"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Chicha - Dedicated Mother</name>
             <text>Support (Whenever this character quests, you may add their ※ to another chosen character’s ※ this
@@ -2253,8 +3187,64 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-148 -->
-        <!-- SKY-149 -->
+        <card>
+            <name>The Queen - Head of the Council</name>
+            <text>Ward (Opponents can’t choose this character except to challenge.)
+                Unite The Villains: When you play this character, look at at the top 3 cards of your deck. You may
+                reveal and put as many Queen characters as you want into your hand. Put the rest on the bottom of your
+                deck, in any order.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Queen • Sorcerer • Villain</type>
+                <colors>Sapphire</colors>
+                <Inkable>No</Inkable>
+                <manacost>4</manacost>
+                <Abilities>Ward</Abilities>
+                <Strength>3</Strength>
+                <pt>3/2</pt>
+                <Willpower>2</Willpower>
+                <Lore>2</Lore>
+                <Artist>Lava Hijzelaar / Ellie Horie</Artist>
+                <Franchise>Sleeping Beauty</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/The-Queen-Head-of-the-Council-LQ-French-Lorcana-Player.jpg"
+                    rarity="Rare"
+                    uuid="SKY-148"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Kuzco - Selfish Emperor</name>
+            <text>Outplacement: When you play this character, you may put chosen item or location into its player’s
+                inkwell facedown and exerted.
+                By Invite Only: 4⬡ - Your other characters gain Resist +1 until the start of your next turn. (Damage
+                dealt to them is reduced by 1.)
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • King</type>
+                <colors>Sapphire</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>6</manacost>
+                <Abilities>Resist</Abilities>
+                <Strength>3</Strength>
+                <pt>3/5</pt>
+                <Willpower>5</Willpower>
+                <Lore>2</Lore>
+                <Artist>Carlos Ruiz</Artist>
+                <Franchise>The Emperor's New Groove</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Kuzco-Selfish-Emperor-LQ-Lorcana-Player.jpg"
+                    rarity="Common"
+                    uuid="SKY-149"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Mufasa - Ruler of Pride Rock</name>
             <text>A Delicate Balance: When you play this character, exert all cards in your inkwell, then return 2 cards
@@ -2267,7 +3257,7 @@
                 <colors>Sapphire</colors>
                 <Inkable>No</Inkable>
                 <manacost>8</manacost>
-                <Strength>45</Strength>
+                <Strength>4</Strength>
                 <pt>4/9</pt>
                 <Willpower>9</Willpower>
                 <Lore>4</Lore>
@@ -2687,7 +3677,33 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-172 -->
+        <card>
+            <name>Jafar - Tyrannical Hypnotist</name>
+            <text>Challenger +7 (While challenging, this character gets +7※.)
+                Intimidating Gaze: Opposing characters with cost 4 or less can’t challenge.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Dreamborn • Sorcerer • Villain</type>
+                <colors>Steel</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>6</manacost>
+                <Strength>0</Strength>
+                <pt>0/7</pt>
+                <Willpower>7</Willpower>
+                <Lore>2</Lore>
+                <Artist>Cam Kendell</Artist>
+                <Franchise>Aladdin</Franchise>
+                <Flavor>"No one will keep me from the broken crown!"</Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Jafar-Tyrannical-Hypnotist-LQ-Lorcana-Player.jpg"
+                    rarity="Legendary"
+                    uuid="SKY-172"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Simba - Lost Prince</name>
             <text>Face The Past: During your turn, whenever this character banishes another character in a challenge,
@@ -2741,7 +3757,30 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-175 -->
+        <card>
+            <name>Royal Guard - Bovine Protector</name>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn</type>
+                <colors>Steel</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>4</manacost>
+                <Strength>1</Strength>
+                <pt>1/7</pt>
+                <Willpower>7</Willpower>
+                <Lore>1</Lore>
+                <Artist>Valerio Buonfantino</Artist>
+                <Franchise>The Emperor's New Groove</Franchise>
+                <Flavor>"Hey, I’ve been turned into a cow. Can I go home?"</Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Royal-Guard-Bovine-Protector-LQ-Lorcana-Player.jpg"
+                    rarity="Common"
+                    uuid="SKY-175"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <!-- SKY-176 -->
         <card>
             <name>Sleepy - Sluggish Knight</name>
@@ -2771,7 +3810,33 @@
             <tablerow>2</tablerow>
         </card>
         <!-- SKY-178 -->
-        <!-- SKY-179 -->
+        <card>
+            <name>Heihei - Protective Rooster</name>
+            <text>Bodyguard (This character may enter play exerted. An opposing character who challenges one of your
+                characters must choose one with Bodyguard if able.)
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Dreamborn • Ally</type>
+                <colors>Steel</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>5</manacost>
+                <Abilities>Bodyguard</Abilities>
+                <Strength>4</Strength>
+                <pt>4/5</pt>
+                <Willpower>5</Willpower>
+                <Lore>2</Lore>
+                <Artist>Brian Weisz</Artist>
+                <Franchise>Moana</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Heihei-Protective-Rooster-Lorcana-Player.jpg"
+                    rarity="Common"
+                    uuid="SKY-179"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Sneezy - Noisy Knight</name>
             <text>Headwind: When you play this character, chosen Knight character gains Challenger +2 this turn. (They
@@ -3019,7 +4084,29 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-190 -->
+        <card>
+            <name>Arthur - Wart</name>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Hero</type>
+                <colors>Steel</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>1</manacost>
+                <Strength>2</Strength>
+                <pt>2/2</pt>
+                <Willpower>2</Willpower>
+                <Lore>2</Lore>
+                <Artist>Kasia Brzezinska</Artist>
+                <Franchise>The Sword in the Stone</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Arthur-Wart-Lorcana-Player.jpg"
+                    rarity="Uncommon"
+                    uuid="SKY-190"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Happy - Lively Knight</name>
             <text>Burst of Speed: During your turn, this character gains Evasive. (They can challenge characters with
@@ -3047,7 +4134,33 @@
             </set>
             <tablerow>2</tablerow>
         </card>
-        <!-- SKY-192 -->
+        <card>
+            <name>Simba - Son of Mufasa</name>
+            <text>Shift 4 (You may pay 4⬡ to play this on top of one of your characters named Simba.)
+                Impressive Roar: When you play this character, you may banish chosen object or location.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Floodborn • Hero • King</type>
+                <colors>Steel</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>6</manacost>
+                <Abilities>Shift</Abilities>
+                <Strength>3</Strength>
+                <pt>3/5</pt>
+                <Willpower>5</Willpower>
+                <Lore>1</Lore>
+                <Artist>Shannon Hallstein</Artist>
+                <Franchise>The Lion King</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Simba-Son-of-Mufasa-LQ-French-Lorcana-Player.jpg"
+                    rarity="Uncommon"
+                    uuid="SKY-192"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
         <card>
             <name>Doc - Bold Knight</name>
             <text>Drastic Measures: When you play this character, you may discard your hand to draw 2 cards.</text>
@@ -3178,7 +4291,29 @@
         <!-- SKY-198 -->
         <!-- SKY-199 -->
         <!-- SKY-200 -->
-        <!-- SKY-201 -->
+        <card>
+            <name>Plate Armor</name>
+            <text>Well Crafted: ↷ - Chosen character gains Resist +2 until the start of your next turn. (Damage dealt to
+                them is reduced by 2.)
+            </text>
+            <prop>
+                <maintype>Item</maintype>
+                <type>Item</type>
+                <colors>Steel</colors>
+                <Inkable>No</Inkable>
+                <manacost>4</manacost>
+                <Abilities>Resist</Abilities>
+                <Artist>Gaku Kumatori</Artist>
+                <Franchise>Robin Hood</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Plate-Armor-Lorcana-Player.jpg"
+                    rarity="Rare"
+                    uuid="SKY-201"
+            >SPOIL
+            </set>
+            <tablerow>1</tablerow>
+        </card>
         <card>
             <name>Steel Chromicon</name>
             <text>Steel Light: ↷ - Deal 1 damage to chosen character.</text>
@@ -3233,6 +4368,34 @@
         <!-- SKY-205 -->
         <!-- SKY-206 -->
         <card>
+            <name>Archimedes - Electrified Owl (Enchanted)</name>
+            <text>Shift 3 (You may pay 3⬡ to play this on top of one of your characters named Archimedes.)
+                Evasive (Only characters with Evasive can challenge this character.)
+                Challenger +3 (While challenging, this character gets +3※.)
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Floodborn • Ally</type>
+                <colors>Amethyst</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>5</manacost>
+                <Abilities>Shift • Evasive • Challenger</Abilities>
+                <Strength>1</Strength>
+                <pt>1/4</pt>
+                <Willpower>4</Willpower>
+                <Lore>2</Lore>
+                <Artist>Michaela Martin</Artist>
+                <Franchise>The Sword in the Stone</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Archimedes-Electrified-Owl-Enchanted-LQ.jpg"
+                    rarity="Enchanted"
+                    uuid="SKY-208"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Donald Duck - Pie Slinger (Enchanted)</name>
             <text>Shift 4 (You may pay 4⬡ to play this on top of one of your characters named Donald Duck.)
                 Humble Pie: When you play this character, if you used Shift to play him, each opponent loses 2 lore.
@@ -3259,6 +4422,26 @@
             >SPOIL
             </set>
             <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Royal Tantrum (Enchanted)</name>
+            <text>Banish any number of your items, then draw a card for each item banished this way.</text>
+            <prop>
+                <maintype>Action</maintype>
+                <type>Action</type>
+                <colors>Sapphire</colors>
+                <Inkable>No</Inkable>
+                <manacost>4</manacost>
+                <Artist>Jennifer Wu</Artist>
+                <Franchise>Robin Hood</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Royal-Tantrum-LQ-Lorcana-Player.jpg"
+                    rarity="Enchanted"
+                    uuid="SKY-219"
+            >SPOIL
+            </set>
+            <tablerow>3</tablerow>
         </card>
     </cards>
 </cockatrice_carddatabase>
