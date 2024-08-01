@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_carddatabase version="4">
-    <!-- Set 5 Spoilers (25 from lorcanaplayer.com, 7 from other sources) -->
+    <!-- Set 5 Spoilers 38 cards (25 from lorcanaplayer.com, 13 from other sources) -->
     <sets>
         <set>
             <name>SPOIL</name>
@@ -10,8 +10,12 @@
         </set>
     </sets>
     <cards>
-        <!-- missing online image link
-            SKY-029 SKY-045 SKY-060 SKY-069 SKY-101 SKY-151 SKY-196
+        <!--
+        *imgur online image links: https://imgur.com/a/XBN6B8V
+            SKY-009 SKY-016 SKY-025 SKY-029 SKY-045
+            SKY-060	SKY-069 SKY-088 SKY-101 SKY-151
+            SKY-187	SKY-196
+            (Rotated) SKY-169 SKY-203
         -->
         <card>
             <name>Vanellope Von Schweetz - Sugar Rush Champ</name>
@@ -33,6 +37,33 @@
                     picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Vanellope-Von-Schweetz-Sugar-Rush-Champ-Lorcana-Player-429x600.jpg"
                     rarity="Common"
                     uuid="SKY-006"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Vanellope Von Schweetz - Mechanic of Dolcetti (ITA)</name>
+            <text>(Italian translation) You Have to Pay to Play: Whenever this character quests, an opposing character
+                of your choice recieves -1※ until the start of your next turn.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Dreamborn • Hero • Princess • Racer</type>
+                <colors>Amber</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>2</manacost>
+                <Strength>2</Strength>
+                <pt>2/2</pt>
+                <Willpower>2</Willpower>
+                <Lore>1</Lore>
+                <Artist>Hedvig Haggman-Sund</Artist>
+                <Franchise>Wreck-It Ralph</Franchise>
+                <Flavor>"I'll take whatever you have... as long as there's sugar in it."</Flavor>
+            </prop>
+            <set
+                    picurl="https://i.imgur.com/rNaUs7J.png"
+                    rarity="Common"
+                    uuid="SKY-009"
             >SPOIL
             </set>
             <tablerow>2</tablerow>
@@ -66,6 +97,57 @@
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Daisy Duck - Donald's Date</name>
+            <text>Big Prize: Whenever this character quests, each opponent reveals the top card of their deck. If it's a
+                character card, they may put it into their hand. Otherwise, they put it on the bottom of their deck.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Ally</type>
+                <colors>Amber</colors>
+                <Inkable>No</Inkable>
+                <manacost>1</manacost>
+                <Abilities>Bodyguard</Abilities>
+                <Strength>1</Strength>
+                <pt>1/4</pt>
+                <Willpower>4</Willpower>
+                <Lore>2</Lore>
+                <Artist>Francesco D'ippolito / Giuseppe di Maio</Artist>
+                <Franchise></Franchise>
+            </prop>
+            <set
+                    picurl="https://i.imgur.com/k82ZXWi.jpeg"
+                    rarity="Rare"
+                    uuid="SKY-016"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Try Everything</name>
+            <text>(A character with cost 4 or more can ↷ to sing this song for free.)
+                Remove up to 3 damage from chosen character and ready them. They can't quest or challenge for the rest
+                of the this turn.
+            </text>
+            <prop>
+                <maintype>Action</maintype>
+                <type>Action • Song</type>
+                <colors>Amber</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>4</manacost>
+                <Artist>Micolas Ky</Artist>
+                <Franchise>?</Franchise>
+                <Flavor>I want to try even though I could fail</Flavor>
+            </prop>
+            <set
+                    picurl="https://i.imgur.com/qCNfbr0.png"
+                    rarity="Uncommon"
+                    uuid="SKY-025"
+            >SPOIL
+            </set>
+            <tablerow>3</tablerow>
+        </card>
+        <card>
             <name>Invited to the Ball</name>
             <text>Reveal the top 2 cards of your deck. Put revealed character cards into your hand. Put the rest on the
                 bottom of your deck in any order.
@@ -80,7 +162,7 @@
                 <Franchise>?</Franchise>
             </prop>
             <set
-                    picurl=""
+                    picurl="https://i.imgur.com/R81PvOW.jpg"
                     rarity="Uncommon"
                     uuid="SKY-029"
             >SPOIL
@@ -131,7 +213,7 @@
                 <Flavor>"This is just a warm up, folks! Wait 'til you see the big finale!"</Flavor>
             </prop>
             <set
-                    picurl=""
+                    picurl="https://i.imgur.com/fykXzhN.jpg"
                     rarity="Rare"
                     uuid="SKY-045"
             >SPOIL
@@ -180,7 +262,7 @@
                 <Flavor>?</Flavor>
             </prop>
             <set
-                    picurl=""
+                    picurl="https://i.imgur.com/oF3eRce.jpg"
                     rarity="Uncommon"
                     uuid="SKY-060"
             >SPOIL
@@ -207,9 +289,36 @@
                 <Franchise>Robin Hood</Franchise>
             </prop>
             <set
-                    picurl=""
+                    picurl="https://i.imgur.com/hnzJS6i.jpg"
                     rarity="Rare"
                     uuid="SKY-069"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Robin Hood - Sneaky Sleuth</name>
+            <text>Shift 3 (You may pay 3⬡ to play this on top of one of your characters named Robin Hood.)
+                Clever Plan: This character gets +1◆ for each opposing damaged character in play.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Floodborn • Hero</type>
+                <colors>Emerald</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>5</manacost>
+                <Abilities>Shift</Abilities>
+                <Strength>3</Strength>
+                <pt>3/5</pt>
+                <Willpower>5</Willpower>
+                <Lore>1</Lore>
+                <Artist>Nicholas Kole</Artist>
+                <Franchise>Robin Hood</Franchise>
+            </prop>
+            <set
+                    picurl="https://i.imgur.com/1BsrD2R.png"
+                    rarity="Uncommon"
+                    uuid="SKY-088"
             >SPOIL
             </set>
             <tablerow>2</tablerow>
@@ -306,7 +415,7 @@
                 <Franchise>Peter Pan</Franchise>
             </prop>
             <set
-                    picurl=""
+                    picurl="https://i.imgur.com/ibj5w4r.jpg"
                     rarity="Rare"
                     uuid="SKY-101"
             >SPOIL
@@ -676,7 +785,7 @@
                 </Flavor>
             </prop>
             <set
-                    picurl=""
+                    picurl="https://i.imgur.com/oyJTs59.jpg"
                     rarity="Uncommon"
                     uuid="SKY-151"
             >SPOIL
@@ -729,11 +838,12 @@
                 <Flavor>Every surface glows with the joy of celebration.</Flavor>
             </prop>
             <set
-                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/The-Great-Illuminary-Radiant-Ballroom-Lorcana-Player.jpg"
+                    picurl="https://i.imgur.com/NNYStpx.jpg"
                     rarity="Rare"
                     uuid="SKY-169"
             >SPOIL
             </set>
+            <!-- ALT IMAGE="https://lorcanaplayer.com/wp-content/uploads/2024/06/The-Great-Illuminary-Radiant-Ballroom-Lorcana-Player.jpg" -->
             <tablerow>1</tablerow>
             <cipt>1</cipt>
         </card>
@@ -791,6 +901,33 @@
             <tablerow>2</tablerow>
         </card>
         <card>
+            <name>Pete - Wrestling Champ</name>
+            <text>Re-Pete: ↷ - Reveal the top card of your deck. If it's a character named Pete, you may play it for
+                free.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Dreamborn • Villain</type>
+                <colors>Steel</colors>
+                <Inkable>No</Inkable>
+                <manacost>3</manacost>
+                <Strength>1</Strength>
+                <pt>1/3</pt>
+                <Willpower>3</Willpower>
+                <Lore>1</Lore>
+                <Artist>Rianti Hidayat</Artist>
+                <Franchise></Franchise>
+                <Flavor>He'll have you seeing double.</Flavor>
+            </prop>
+            <set
+                    picurl="https://i.imgur.com/2ZcYrUP.jpg"
+                    rarity="Rare"
+                    uuid="SKY-187"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
             <name>Tug-of-War</name>
             <text>Choose one:
                 • Deal 1 Damage to each opposing character without Evasive.
@@ -806,7 +943,7 @@
                 <Franchise>Peter Pan</Franchise>
             </prop>
             <set
-                    picurl=""
+                    picurl="https://i.imgur.com/LKCfK9G.jpg"
                     rarity="Rare"
                     uuid="SKY-196"
             >SPOIL
@@ -832,13 +969,43 @@
                 <Franchise>Wreck-It Ralph</Franchise>
             </prop>
             <set
-                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Bad-Anon-Villain-Support-Center-Lorcana-Player-1.jpg"
+                    picurl="https://i.imgur.com/fbAEet1.jpg"
                     rarity="Rare"
                     uuid="SKY-203"
             >SPOIL
             </set>
+            <!-- ALT IMAGE="https://lorcanaplayer.com/wp-content/uploads/2024/06/Bad-Anon-Villain-Support-Center-Lorcana-Player-1.jpg" -->
             <tablerow>1</tablerow>
             <cipt>1</cipt>
+        </card>
+        <card>
+            <name>Bucky - Squirrel Squeak Tutor (Errata)</name>
+            <text>Squeak: Whenever you play a Floodborn character, if you used Shift to play them, each opponent chooses
+                and discards a card.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Ally</type>
+                <colors>Emerald</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>3</manacost>
+                <Strength>1</Strength>
+                <pt>1/1</pt>
+                <Willpower>1</Willpower>
+                <Lore>1</Lore>
+                <Artist>Alex Accorsi</Artist>
+                <Franchise></Franchise>
+                <Flavor>"There's a lot of nuance to squirrel."
+                    - Kronk
+                </Flavor>
+            </prop>
+            <set
+                    picurl="https://www.disneylorcana.com/cms/gallery/lorcana-web/news/dlc_s2_cards-standard_en02_73-1.png"
+                    rarity="Uncommon"
+                    uuid="ROF-073-ERR"
+            >SPOIL
+            </set>
+            <tablerow>2</tablerow>
         </card>
     </cards>
 </cockatrice_carddatabase>

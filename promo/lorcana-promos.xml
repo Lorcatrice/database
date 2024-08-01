@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_carddatabase version="4">
+    <!--
+
+    Challenge Promos	5
+    Promo Set 1			39
+    Promo Set 2			2
+    D23 2024 Promos		6
+    TOTAL CARDS:		52
+
+    -->
     <sets>
         <set>
             <name>PRO</name>
@@ -1240,6 +1249,7 @@
                 <manacost>9</manacost>
                 <Abilities>Bodyguard</Abilities>
                 <Strength>3</Strength>
+                <Strength>3</Strength>
                 <pt>3/7</pt>
                 <Willpower>7</Willpower>
                 <Lore>3</Lore>
@@ -1250,6 +1260,172 @@
                     picurl="https://lorcanaplayer.com/wp-content/uploads/2024/06/Kristoff-Reindeer-Keeper-Seasonal-Promo-Lorcana-Player.jpg"
                     rarity="Promo"
                     uuid="SKY-013-P2-02"
+            >PRO
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <!-- D23 2024 Promos (6 cards of 6 numbered), Poor image quality-->
+        <card>
+            <name>Mickey Mouse - Brave Little Tailor (D23 Collection)</name>
+            <text>Evasive (Only characters with Evasive can challenge this character.)</text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Dreamborn • Hero</type>
+                <colors>Ruby</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>8</manacost>
+                <Abilities>Evasive</Abilities>
+                <Strength>5</Strength>
+                <pt>5/5</pt>
+                <Willpower>5</Willpower>
+                <Lore>4</Lore>
+                <Artist>Nicolas Kole</Artist>
+                <Franchise>Mickey Mouse &amp; Friends</Franchise>
+                <Flavor>When defeat looms and victory hangs by a thread, a hero bolts to the rescue, patching things up
+                    through shear determination.
+                </Flavor>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Mickey-Mouse-Brave-Little-Tailor-D23-Collection-LQ-Lorcana-Player.jpg"
+                    rarity="Promo"
+                    uuid="TFC-115-D23-01"
+            >PRO
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Cinderella - Stouthearted (D23 Collection)</name>
+            <text>Shift 5 (You may pay 5⬡ to play this on top of one of your characters named Cinderella.)
+                Resist +2 (Damage dealt to this character is reduced by 2.)
+                The Singing Sword: Whenever you play a song, this character may challenge ready characters this turn.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Floodborn • Hero • Princess • Knight</type>
+                <colors>Steel</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>7</manacost>
+                <Abilities>Shift • Resist</Abilities>
+                <Strength>5</Strength>
+                <pt>5/5</pt>
+                <Willpower>5</Willpower>
+                <Lore>3</Lore>
+                <Artist>Grace Tran</Artist>
+                <Franchise>Cinderella</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Cinderella-Stouthearted-D23-Collection-LQ-Lorcana-Player-1.jpg"
+                    rarity="Promo"
+                    uuid="ROF-177-D23-02"
+            >PRO
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Ursula - Deceiver (D23 Collection)</name>
+            <text>You'll Never Even Miss It: When you play this character, chosen opponent reveals their hand and
+                discards a song card of your choice.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Villain • Sorcerer</type>
+                <colors>Emerald</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>2</manacost>
+                <Strength>1</Strength>
+                <pt>1/3</pt>
+                <Willpower>3</Willpower>
+                <Lore>1</Lore>
+                <Artist>Lisanne Koeteeuw</Artist>
+                <Franchise>The Little Mermaid</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Ursula-Deceiver-D23-Collection-LQ-Lorcana-Player-2.jpg"
+                    rarity="Promo"
+                    uuid="INK-090-D23-03"
+            >PRO
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Bruno Madrigal - Undetected Uncle (D23 Collection)</name>
+            <text>Evasive (Only characters with Evasive can challenge this character.)
+                You Just Have to See It: ↷ - Name a card, then reveal the top card of your deck. If it's the named card,
+                put that card into your hand and gain 3 lore. Otherwise, put it on the top of your deck.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Ally • Madrigal</type>
+                <colors>Amethyst</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>4</manacost>
+                <Abilities>Evasive</Abilities>
+                <Strength>3</Strength>
+                <pt>3/3</pt>
+                <Willpower>3</Willpower>
+                <Lore>1</Lore>
+                <Artist>Juan Diego Leon</Artist>
+                <Franchise>Encanto</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Bruno-Madrigal-Undetected-Uncle-D23-Collection-LQ-Lorcana-Player.jpg"
+                    rarity="Promo"
+                    uuid="URS-039-D23-04"
+            >PRO
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Vanellope Von Schweetz - Sugar Rush Princess (D23 Collection)</name>
+            <text>Shift 2 (You may pay 2⬡ to play this on top of one of your characters named Vanellope Von Schweetz.)
+                I Hereby Decree: Whenever you play another Princess character, all opposing characters get -1※ until the
+                start of your next turn.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Floodborn • Hero • Princess • Racer</type>
+                <colors>Amber</colors>
+                <Inkable>Yes</Inkable>
+                <manacost>4</manacost>
+                <Abilities>Shift</Abilities>
+                <Strength>2</Strength>
+                <pt>2/4</pt>
+                <Willpower>4</Willpower>
+                <Lore>2</Lore>
+                <Artist>Vanessa Morales</Artist>
+                <Franchise>Wreck-It Ralph</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Vanellope-Von-Schweetz-Sugar-Rush-Princess-D23-Collection-LQ-Lorcana-Player.jpg"
+                    rarity="Promo"
+                    uuid="SKY-???-D23-05"
+            >PRO
+            </set>
+            <tablerow>2</tablerow>
+        </card>
+        <card>
+            <name>Oswald - The Lucky Rabbit - D23 Collection (D23 Collection)</name>
+            <text>Favorable Chance: During your turn, whenever a card is put into your inkwell, you may reveal the top
+                card of your deck. If it’s an item card, you may play that item for free and they enter play exerted.
+                Otherwise, put it on the bottom of your deck.
+            </text>
+            <prop>
+                <maintype>Character</maintype>
+                <type>Storyborn • Hero</type>
+                <colors>Sapphire</colors>
+                <Inkable>No</Inkable>
+                <manacost>2</manacost>
+                <Strength>2</Strength>
+                <pt>2/1</pt>
+                <Willpower>1</Willpower>
+                <Lore>2</Lore>
+                <Artist>Tom Bancroft</Artist>
+                <Franchise>Mickey Mouse &amp; Friends</Franchise>
+            </prop>
+            <set
+                    picurl="https://lorcanaplayer.com/wp-content/uploads/2024/07/Oswald-The-Lucky-Rabbit-D23-Collection-LQ-Lorcana-Player.jpg"
+                    rarity="Promo"
+                    uuid="006-???-D23-06"
             >PRO
             </set>
             <tablerow>2</tablerow>
