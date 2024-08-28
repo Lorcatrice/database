@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Illumineers Quest - Amber &amp; Ruby</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="1" name="Cobra Bubbles - Just a Social Worker"/>
+        <card number="2" name="Hades - Lord of the Underworld"/>
+        <card number="3" name="HeiHei - Boat Snack"/>
+        <card number="1" name="Minnie Mouse - Musketeer Champion"/>
+        <card number="3" name="Mulan - Free Spirit"/>
+        <card number="1" name="Piglet - Pooh Pirate Captain"/>
+        <card number="3" name="Rapunzel - Sunshine"/>
+        <card number="3" name="Rolly - Hungry Pup"/>
+        <card number="3" name="Tinker Bell - Generous Fairy"/>
+        <card number="2" name="Bruno's Return"/>
+        <card number="2" name="Lost in the Woods"/>
+        <card number="3" name="Dinglehopper"/>
+        <card number="1" name="Lantern"/>
+        <card number="2" name="Goofy - Super Goof"/>
+        <card number="2" name="Hercules - Clumsy Kid"/>
+        <card number="2" name="Khan - Beloved Steed"/>
+        <card number="1" name="Lumiere - Fiery Friend"/>
+        <card number="1" name="Maui - Whale"/>
+        <card number="1" name="Mulan - Elite Archer"/>
+        <card number="3" name="Mulan - Enemy of Entanglement"/>
+        <card number="3" name="Mulan - Injured Soldier"/>
+        <card number="2" name="Namaari - Heir of Fang"/>
+        <card number="3" name="Pegasus - Flying Steed"/>
+        <card number="3" name="Scar - Fiery Usurper"/>
+        <card number="1" name="Te Kā - The Burning One"/>
+        <card number="2" name="Dragon Fire"/>
+        <card number="3" name="Medallion Weights"/>
+        <card number="3" name="Vitalisphere"/>
+    </zone>
+</cockatrice_deck>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Illumineers Quest - Amethyst &amp; Steel</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Elsa - Snow Queen"/>
+        <card number="1" name="Elsa - Storm Chaser"/>
+        <card number="1" name="Jafar - Keeper of Secrets"/>
+        <card number="4" name="Magic Broom - Bucket Brigade"/>
+        <card number="3" name="Magic Broom - Dancing Duster"/>
+        <card number="3" name="Magic Broom - Illuminary Keeper"/>
+        <card number="3" name="Magic Broom - Lively Sweeper"/>
+        <card number="2" name="Magic Broom - Swift Cleaner"/>
+        <card number="1" name="Mickey Mouse - Wayward Sorcerer"/>
+        <card number="1" name="Pepa Madrigal - Weather Maker"/>
+        <card number="1" name="Yen Sid - Powerful Sorcerer"/>
+        <card number="2" name="Friends On the Other Side"/>
+        <card number="1" name="Second Star to the Right"/>
+        <card number="2" name="The Sorcerer's Hat"/>
+        <card number="2" name="Triton's Trident"/>
+        <card number="2" name="Ursula's Cauldron"/>
+        <card number="2" name="Beast - Hardheaded"/>
+        <card number="2" name="Benja - Guardian of the Dragon Gem"/>
+        <card number="2" name="Lythos - Rock Titan"/>
+        <card number="3" name="Magic Broom - Aerial Cleaner"/>
+        <card number="1" name="Magic Broom - Brigade Commander"/>
+        <card number="3" name="Magic Broom - Industrial Model"/>
+        <card number="1" name="Mickey Mouse - Playful Sorcerer"/>
+        <card number="1" name="Pyros - Lava Titan"/>
+        <card number="1" name="Raya - Unstoppable Force"/>
+        <card number="3" name="Charge!"/>
+        <card number="2" name="Let the Storm Rage On"/>
+        <card number="1" name="One Last Hope"/>
+        <card number="1" name="Pick a Fight"/>
+        <card number="2" name="Smash"/>
+        <card number="1" name="Strength of a Raging Fire"/>
+        <card number="1" name="The Mob Song"/>
+        <card number="2" name="Mouse Armor"/>
+    </zone>
+</cockatrice_deck>

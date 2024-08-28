@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>Ursula's Deck</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Anna - Ensnared Sister"/>
+        <card number="2" name="Bruno Madrigal - Unspeakable Seer"/>
+        <card number="2" name="Captain Hook - Devious Duelist"/>
+        <card number="1" name="Flotsam - Wicked Defender"/>
+        <card number="1" name="Gaston - Egotistical Bully"/>
+        <card number="2" name="HeiHei - Peckish Pal"/>
+        <card number="1" name="Hercules - Manipulated Hero"/>
+        <card number="1" name="Jafar - Double-Crossing Vizier"/>
+        <card number="1" name="Jetsam - Wicked Whisperer"/>
+        <card number="2" name="Mad Hatter - Sinister Host"/>
+        <card number="2" name="Magica De Spell - Shadowy Sorceress"/>
+        <card number="1" name="Minnie Mouse - Wild-Eyed Diver"/>
+        <card number="2" name="Prince Eric - Grim Groom"/>
+        <card number="2" name="Shark - Toothy Terror"/>
+        <card number="2" name="Tamatoa - Grabby Crab"/>
+        <card number="4" name="Triton's Daughters - Discordant Chorus"/>
+        <card number="2" name="Capsize"/>
+        <card number="2" name="Choppy Waters"/>
+        <card number="1" name="Crushing Wave"/>
+        <card number="1" name="Entangling Magic"/>
+        <card number="1" name="Fortunate Hit"/>
+        <card number="2" name="Lash Out"/>
+        <card number="1" name="Lightning Storm"/>
+        <card number="1" name="Riptide"/>
+        <card number="1" name="Tentacle Swipe"/>
+        <card number="1" name="Tsunami"/>
+        <card number="2" name="Typhoon"/>
+        <card number="1" name="Whirlpool"/>
+        <card number="1" name="The Hexwell Crown"/>
+        <card number="4" name="Ursula's Contract"/>
+        <card number="1" name="Ursula's Stolen Trident"/>
+    </zone>
+</cockatrice_deck>
